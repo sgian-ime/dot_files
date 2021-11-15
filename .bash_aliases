@@ -5,6 +5,7 @@ alias mv="mv -iv"
 alias cp="cp -iv"
 alias mkdir="mkdir -pv"
 alias grep="grep --color=auto"
+alias rm="rm -v"
 
 # Existing commands that can be run with set flags
 alias la="ls -A"
